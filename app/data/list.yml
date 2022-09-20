@@ -1,14 +1,13 @@
 list:
-  - item-title: "Plemićka ruta..."
-    item-image: "/images/rute/plemicka.jpg"
-    item-subtitle: "Neočekivano plemenita"
-    item-text: "Nije tajna da su plemićke obitelji Janković, Schaumburg-Lippe i Drašković obožavale virovitičko-podravski kraj te u
-    idili njegove prirode gradili svoja raskošna zdanja."
-  - item-title: "Zelena ruta..."
-    item-image: "/images/rute/zelena.jpg"
-    item-subtitle: "Neočekivano zelena"
-    item-text: "Zelena boja opušta, smiruje, godi duši i tijelu... Ima li boljeg odmora od onog u prirodi?"
-  - item-title: "Sakralna ruta..."
-    item-image: "/images/rute/sakralna.jpg"
-    item-subtitle: "Neočekivano duhovna"
-    item-text: "Odmor za dušu i tijelo, svima prijeko potreban mir i tišina, ali i neočekivana sakralna zdanja u visokoj umjetničkoj izvedbi, kao i mjesta čudesnih duhovnih doživljaja, očekuju vas na sakralnoj ruti."
+  - item-title: 'Discover innovative ways to decorate'
+    item-text: 'We provide unmatched quality, comfort, and style for property owners across the country. Our experts combine form and function in bringing your vision to life. Create a room in your   own style with our collection and make your property a reflection of you and what you love.'
+    item-img-mobile: 'images/mobile-image-hero-1.jpg'
+    item-img-desktop: 'images/desktop-image-hero-1.jpg'
+  - item-title: 'We are available all across the globe'
+    item-text: "With stores all over the world, it's easy for you to find furniture for your home or place of business.   Locally, we’re in most major cities throughout the country. Find the branch nearest you using our store locator. Any questions? Don't hesitate to contact us today."
+    item-img-mobile: 'images/mobile-image-hero-2.jpg'
+    item-img-desktop: 'images/desktop-image-hero-2.jpg'
+  - item-title: 'Manufactured with the best materials'
+    item-text: 'Our modern furniture store provide a high level of quality. Our company has invested in advanced technology   to ensure that every product is made as perfect and as onsistent as possible. With three decades of   experience in this industry, we understand what customers want for their home and office.'
+    item-img-mobile: 'images/mobile-image-hero-3.jpg'
+    item-img-desktop: 'images/desktop-image-hero-3.jpg'

@@ -1,17 +1,9 @@
 <div class="repeater-item">
     {{#if item-title}}
-    <div>{{ item-title }}</div>
+    <h2>{{ item-title }}</h2>
     {{/if }}
-
-    {{#if item-image}}
-    <img src="{{ item-image }}" alt="" class="">
-    {{/if }}
-
-    {{#if item-subtitle}}
-    <div>{{ item-subtitle }}</div>
-    {{/if }}
-
     {{#if item-text}}
-    <div>{{ item-text }}</div>
+    <p>{{ item-text }}</p>
     {{/if }}
+    <a class="cta" href="">Shop now <img src="svg/icon-arrow.svg" alt=""></a>
 </div>
